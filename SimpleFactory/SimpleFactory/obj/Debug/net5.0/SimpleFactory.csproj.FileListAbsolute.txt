@@ -1,0 +1,16 @@
+C:\Raigenics Design Patterns\SimpleFactory\SimpleFactory\bin\Debug\net5.0\SimpleFactory.exe
+C:\Raigenics Design Patterns\SimpleFactory\SimpleFactory\bin\Debug\net5.0\SimpleFactory.deps.json
+C:\Raigenics Design Patterns\SimpleFactory\SimpleFactory\bin\Debug\net5.0\SimpleFactory.runtimeconfig.json
+C:\Raigenics Design Patterns\SimpleFactory\SimpleFactory\bin\Debug\net5.0\SimpleFactory.runtimeconfig.dev.json
+C:\Raigenics Design Patterns\SimpleFactory\SimpleFactory\bin\Debug\net5.0\SimpleFactory.dll
+C:\Raigenics Design Patterns\SimpleFactory\SimpleFactory\bin\Debug\net5.0\ref\SimpleFactory.dll
+C:\Raigenics Design Patterns\SimpleFactory\SimpleFactory\bin\Debug\net5.0\SimpleFactory.pdb
+C:\Raigenics Design Patterns\SimpleFactory\SimpleFactory\obj\Debug\net5.0\SimpleFactory.csprojAssemblyReference.cache
+C:\Raigenics Design Patterns\SimpleFactory\SimpleFactory\obj\Debug\net5.0\SimpleFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Raigenics Design Patterns\SimpleFactory\SimpleFactory\obj\Debug\net5.0\SimpleFactory.AssemblyInfoInputs.cache
+C:\Raigenics Design Patterns\SimpleFactory\SimpleFactory\obj\Debug\net5.0\SimpleFactory.AssemblyInfo.cs
+C:\Raigenics Design Patterns\SimpleFactory\SimpleFactory\obj\Debug\net5.0\SimpleFactory.csproj.CoreCompileInputs.cache
+C:\Raigenics Design Patterns\SimpleFactory\SimpleFactory\obj\Debug\net5.0\SimpleFactory.dll
+C:\Raigenics Design Patterns\SimpleFactory\SimpleFactory\obj\Debug\net5.0\ref\SimpleFactory.dll
+C:\Raigenics Design Patterns\SimpleFactory\SimpleFactory\obj\Debug\net5.0\SimpleFactory.pdb
+C:\Raigenics Design Patterns\SimpleFactory\SimpleFactory\obj\Debug\net5.0\SimpleFactory.genruntimeconfig.cache
