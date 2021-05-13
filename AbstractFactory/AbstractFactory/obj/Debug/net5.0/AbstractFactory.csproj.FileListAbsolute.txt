@@ -1,0 +1,16 @@
+C:\Raigenics Design Patterns\AbstractFactory\AbstractFactory\bin\Debug\net5.0\AbstractFactory.exe
+C:\Raigenics Design Patterns\AbstractFactory\AbstractFactory\bin\Debug\net5.0\AbstractFactory.deps.json
+C:\Raigenics Design Patterns\AbstractFactory\AbstractFactory\bin\Debug\net5.0\AbstractFactory.runtimeconfig.json
+C:\Raigenics Design Patterns\AbstractFactory\AbstractFactory\bin\Debug\net5.0\AbstractFactory.runtimeconfig.dev.json
+C:\Raigenics Design Patterns\AbstractFactory\AbstractFactory\bin\Debug\net5.0\AbstractFactory.dll
+C:\Raigenics Design Patterns\AbstractFactory\AbstractFactory\bin\Debug\net5.0\ref\AbstractFactory.dll
+C:\Raigenics Design Patterns\AbstractFactory\AbstractFactory\bin\Debug\net5.0\AbstractFactory.pdb
+C:\Raigenics Design Patterns\AbstractFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.csprojAssemblyReference.cache
+C:\Raigenics Design Patterns\AbstractFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Raigenics Design Patterns\AbstractFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.AssemblyInfoInputs.cache
+C:\Raigenics Design Patterns\AbstractFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.AssemblyInfo.cs
+C:\Raigenics Design Patterns\AbstractFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Raigenics Design Patterns\AbstractFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.dll
+C:\Raigenics Design Patterns\AbstractFactory\AbstractFactory\obj\Debug\net5.0\ref\AbstractFactory.dll
+C:\Raigenics Design Patterns\AbstractFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.pdb
+C:\Raigenics Design Patterns\AbstractFactory\AbstractFactory\obj\Debug\net5.0\AbstractFactory.genruntimeconfig.cache
