@@ -1,0 +1,16 @@
+C:\Raigenics Design Patterns\Singleton\Singleton\obj\Debug\net5.0\Singleton.csprojAssemblyReference.cache
+C:\Raigenics Design Patterns\Singleton\Singleton\obj\Debug\net5.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Raigenics Design Patterns\Singleton\Singleton\obj\Debug\net5.0\Singleton.AssemblyInfoInputs.cache
+C:\Raigenics Design Patterns\Singleton\Singleton\obj\Debug\net5.0\Singleton.AssemblyInfo.cs
+C:\Raigenics Design Patterns\Singleton\Singleton\obj\Debug\net5.0\Singleton.csproj.CoreCompileInputs.cache
+C:\Raigenics Design Patterns\Singleton\Singleton\bin\Debug\net5.0\Singleton.exe
+C:\Raigenics Design Patterns\Singleton\Singleton\bin\Debug\net5.0\Singleton.deps.json
+C:\Raigenics Design Patterns\Singleton\Singleton\bin\Debug\net5.0\Singleton.runtimeconfig.json
+C:\Raigenics Design Patterns\Singleton\Singleton\bin\Debug\net5.0\Singleton.runtimeconfig.dev.json
+C:\Raigenics Design Patterns\Singleton\Singleton\bin\Debug\net5.0\Singleton.dll
+C:\Raigenics Design Patterns\Singleton\Singleton\bin\Debug\net5.0\ref\Singleton.dll
+C:\Raigenics Design Patterns\Singleton\Singleton\bin\Debug\net5.0\Singleton.pdb
+C:\Raigenics Design Patterns\Singleton\Singleton\obj\Debug\net5.0\Singleton.dll
+C:\Raigenics Design Patterns\Singleton\Singleton\obj\Debug\net5.0\ref\Singleton.dll
+C:\Raigenics Design Patterns\Singleton\Singleton\obj\Debug\net5.0\Singleton.pdb
+C:\Raigenics Design Patterns\Singleton\Singleton\obj\Debug\net5.0\Singleton.genruntimeconfig.cache
