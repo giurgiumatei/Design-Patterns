@@ -1,0 +1,27 @@
+D:\Misce\Youtube\DesignPattern\Simple Factory\VS\Draft\CreationalDesignPattern\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.csproj.CoreCompileInputs.cache
+D:\Misce\Youtube\DesignPattern\Simple Factory\VS\Draft\CreationalDesignPattern\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.AssemblyInfoInputs.cache
+D:\Misce\Youtube\DesignPattern\Simple Factory\VS\Draft\CreationalDesignPattern\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.AssemblyInfo.cs
+D:\Misce\Youtube\DesignPattern\Simple Factory\VS\Draft\CreationalDesignPattern\FactoryMethod\bin\Debug\netcoreapp2.2\FactoryMethod.deps.json
+D:\Misce\Youtube\DesignPattern\Simple Factory\VS\Draft\CreationalDesignPattern\FactoryMethod\bin\Debug\netcoreapp2.2\FactoryMethod.dll
+D:\Misce\Youtube\DesignPattern\Simple Factory\VS\Draft\CreationalDesignPattern\FactoryMethod\bin\Debug\netcoreapp2.2\FactoryMethod.pdb
+D:\Misce\Youtube\DesignPattern\Simple Factory\VS\Draft\CreationalDesignPattern\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.dll
+D:\Misce\Youtube\DesignPattern\Simple Factory\VS\Draft\CreationalDesignPattern\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.pdb
+D:\Misce\Youtube\DesignPattern\Simple Factory\VS\Draft\CreationalDesignPattern\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.csprojAssemblyReference.cache
+D:\Misce\YouT\DesignPattern\Simple Factory\VS\Draft\CreationalDesignPattern\FactoryMethod\bin\Debug\netcoreapp2.2\FactoryMethod.deps.json
+D:\Misce\YouT\DesignPattern\Simple Factory\VS\Draft\CreationalDesignPattern\FactoryMethod\bin\Debug\netcoreapp2.2\FactoryMethod.dll
+D:\Misce\YouT\DesignPattern\Simple Factory\VS\Draft\CreationalDesignPattern\FactoryMethod\bin\Debug\netcoreapp2.2\FactoryMethod.pdb
+D:\Misce\YouT\DesignPattern\Simple Factory\VS\Draft\CreationalDesignPattern\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.csprojAssemblyReference.cache
+D:\Misce\YouT\DesignPattern\Simple Factory\VS\Draft\CreationalDesignPattern\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.csproj.CoreCompileInputs.cache
+D:\Misce\YouT\DesignPattern\Simple Factory\VS\Draft\CreationalDesignPattern\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.AssemblyInfoInputs.cache
+D:\Misce\YouT\DesignPattern\Simple Factory\VS\Draft\CreationalDesignPattern\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.AssemblyInfo.cs
+D:\Misce\YouT\DesignPattern\Simple Factory\VS\Draft\CreationalDesignPattern\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.dll
+D:\Misce\YouT\DesignPattern\Simple Factory\VS\Draft\CreationalDesignPattern\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.pdb
+C:\Raigenics Design Patterns\FactoryMethod\bin\Debug\netcoreapp2.2\FactoryMethod.deps.json
+C:\Raigenics Design Patterns\FactoryMethod\bin\Debug\netcoreapp2.2\FactoryMethod.dll
+C:\Raigenics Design Patterns\FactoryMethod\bin\Debug\netcoreapp2.2\FactoryMethod.pdb
+C:\Raigenics Design Patterns\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.csprojAssemblyReference.cache
+C:\Raigenics Design Patterns\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.AssemblyInfoInputs.cache
+C:\Raigenics Design Patterns\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.AssemblyInfo.cs
+C:\Raigenics Design Patterns\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Raigenics Design Patterns\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.dll
+C:\Raigenics Design Patterns\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.pdb
