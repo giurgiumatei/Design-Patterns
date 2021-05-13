@@ -1,0 +1,16 @@
+C:\Raigenics Design Patterns\Builder\Builder\bin\Debug\net5.0\Builder.exe
+C:\Raigenics Design Patterns\Builder\Builder\bin\Debug\net5.0\Builder.deps.json
+C:\Raigenics Design Patterns\Builder\Builder\bin\Debug\net5.0\Builder.runtimeconfig.json
+C:\Raigenics Design Patterns\Builder\Builder\bin\Debug\net5.0\Builder.runtimeconfig.dev.json
+C:\Raigenics Design Patterns\Builder\Builder\bin\Debug\net5.0\Builder.dll
+C:\Raigenics Design Patterns\Builder\Builder\bin\Debug\net5.0\ref\Builder.dll
+C:\Raigenics Design Patterns\Builder\Builder\bin\Debug\net5.0\Builder.pdb
+C:\Raigenics Design Patterns\Builder\Builder\obj\Debug\net5.0\Builder.csprojAssemblyReference.cache
+C:\Raigenics Design Patterns\Builder\Builder\obj\Debug\net5.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Raigenics Design Patterns\Builder\Builder\obj\Debug\net5.0\Builder.AssemblyInfoInputs.cache
+C:\Raigenics Design Patterns\Builder\Builder\obj\Debug\net5.0\Builder.AssemblyInfo.cs
+C:\Raigenics Design Patterns\Builder\Builder\obj\Debug\net5.0\Builder.csproj.CoreCompileInputs.cache
+C:\Raigenics Design Patterns\Builder\Builder\obj\Debug\net5.0\Builder.dll
+C:\Raigenics Design Patterns\Builder\Builder\obj\Debug\net5.0\ref\Builder.dll
+C:\Raigenics Design Patterns\Builder\Builder\obj\Debug\net5.0\Builder.pdb
+C:\Raigenics Design Patterns\Builder\Builder\obj\Debug\net5.0\Builder.genruntimeconfig.cache
